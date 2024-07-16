@@ -1,0 +1,17 @@
+name: Compile and Run C++ Calculator
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Compile C++ program
+      run: g++ -o calculator calculator.cpp
+
+    - name: Run the program
+      run: ./calculator

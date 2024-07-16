@@ -2,6 +2,9 @@
 
 This repository contains a simple C++ calculator program that can be automatically compiled and run using the provided scripts.
 
+![Calculator Image](calculator_img.jpeg)
+
+
 ## How to Use
 
 ### Unix-based Systems

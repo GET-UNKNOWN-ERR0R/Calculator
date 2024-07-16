@@ -1,8 +1,12 @@
-# C++ Calculator
+![image](https://github.com/user-attachments/assets/6b3facb4-7877-48d1-851f-da9866c32918)# C++ Calculator
 
 This repository contains a simple C++ calculator program that can be automatically compiled and run using the provided scripts.
 
+![Calculator Image](cal.png)
+
+
 ![Calculator Image](calculator_img.jpeg)
+
 
 
 ## How to Use

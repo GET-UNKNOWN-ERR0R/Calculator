@@ -5,10 +5,6 @@ This repository contains a simple C++ calculator program that can be automatical
 ![Calculator Image](cal.png)
 
 
-![Calculator Image](calculator_img.jpeg)
-
-
-
 ## How to Use
 
 ### Unix-based Systems

@@ -11,8 +11,8 @@ This repository contains a simple C++ calculator program that can be automatical
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/GET-UNKNOWN-ERR0R/Calculator.git
-    cd Calculator
+    git clone https://github.com/GET-UNKNOWN-ERR0R/calculator.git
+    cd calculator
     ```
 
 2. Run the program:
@@ -24,8 +24,8 @@ This repository contains a simple C++ calculator program that can be automatical
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/GET-UNKNOWN-ERR0R/Calculator.git
-    cd Calculator
+    git clone https://github.com/GET-UNKNOWN-ERR0R/calculator.git
+    cd calculator
     ```
 
 2. Run the program:

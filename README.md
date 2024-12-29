@@ -33,10 +33,6 @@ This repository contains a simple C++ calculator program that can be automatical
     run.bat
     ```
 
-### GitHub Actions
-
-The C++ program will also be automatically compiled and run using GitHub Actions when you push changes to the repository.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
